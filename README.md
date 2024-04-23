@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @eiriksateroy
 - 👀 I’m interested in fun projects
-- 🌱 I’m currently learning Java
 - 📫 How to reach me is through the interballs, might reach me through the mist too
 
 <!---
